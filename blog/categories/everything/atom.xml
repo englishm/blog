@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Everything | Mike English&#x27;s blog]]></title>
-  <link href="http://englishm.github.com/blog/blog/categories/everything/atom.xml" rel="self"/>
-  <link href="http://englishm.github.com/blog/"/>
-  <updated>2013-02-15T12:24:54-05:00</updated>
-  <id>http://englishm.github.com/blog/</id>
+  <link href="http://mikeenglish.net/blog/blog/categories/everything/atom.xml" rel="self"/>
+  <link href="http://mikeenglish.net/blog/"/>
+  <updated>2013-02-15T13:00:40-05:00</updated>
+  <id>http://mikeenglish.net/blog/</id>
   <author>
     <name><![CDATA[Mike English]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Shopping Malls and Public Parks]]></title>
-    <link href="http://englishm.github.com/blog/2010/08/09/shopping-malls-and-public-parks/"/>
+    <link href="http://mikeenglish.net/blog/2010/08/09/shopping-malls-and-public-parks/"/>
     <updated>2010-08-09T00:00:00-04:00</updated>
-    <id>http://englishm.github.com/blog/2010/08/09/shopping-malls-and-public-parks</id>
+    <id>http://mikeenglish.net/blog/2010/08/09/shopping-malls-and-public-parks</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p>If  Facebook is the social web’s equivalent of a <a href="http://fuchs.uti.at/409/" title="“The world will be better if you share more“: Mark Zuckerberg, Facebook, and Economic Surveillance">shopping mall</a>, what would be the social web’s equivalent of a public park?</p>
@@ -28,9 +28,9 @@
   
   <entry>
     <title type="html"><![CDATA[Trusted Identities?]]></title>
-    <link href="http://englishm.github.com/blog/2010/06/26/trusted-identities/"/>
+    <link href="http://mikeenglish.net/blog/2010/06/26/trusted-identities/"/>
     <updated>2010-06-26T00:00:00-04:00</updated>
-    <id>http://englishm.github.com/blog/2010/06/26/trusted-identities</id>
+    <id>http://mikeenglish.net/blog/2010/06/26/trusted-identities</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p>The White House <a href="http://www.whitehouse.gov/blog/2010/06/25/national-strategy-trusted-identities-cyberspace">released</a> yesterday a draft document for a plan to create “Trusted Identities in Cyberspace.”</p>
@@ -63,9 +63,9 @@ authenticate herself for a variety of online services, including:</p>
   
   <entry>
     <title type="html"><![CDATA[Hyperlinks, distracted attention, and the semantic web]]></title>
-    <link href="http://englishm.github.com/blog/2010/06/01/hyperlinks/"/>
+    <link href="http://mikeenglish.net/blog/2010/06/01/hyperlinks/"/>
     <updated>2010-06-01T00:00:00-04:00</updated>
-    <id>http://englishm.github.com/blog/2010/06/01/hyperlinks</id>
+    <id>http://mikeenglish.net/blog/2010/06/01/hyperlinks</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p>Yesterday, Dr. Peter B. Reiner at The National Core for Neuroethics (an interdisciplinary research group dedicated to tackling the ethical, legal, policy and social implications of frontier technological developments in the neurosciences) commented<a href="#1">1</a> on one of the points Nicholas Carr makes in <em>The Shallows</em>. In the book<a href="#2">2</a>, Carr notes some recent studies that have shown a difference in the way people read text with hyperlinks versus the way people read text without hyperlinks. Simply put, hyperlinks are distracting. Internet use promotes a multitasking mindset that is changing the way our brains are wired, and hyperlinks are fundamental to this enabling infrastructure.</p>
@@ -83,9 +83,9 @@ authenticate herself for a variety of online services, including:</p>
   
   <entry>
     <title type="html"><![CDATA[Eco-friendly ereaders?]]></title>
-    <link href="http://englishm.github.com/blog/2010/05/28/eco-friendly-ereaders/"/>
+    <link href="http://mikeenglish.net/blog/2010/05/28/eco-friendly-ereaders/"/>
     <updated>2010-05-28T00:00:00-04:00</updated>
-    <id>http://englishm.github.com/blog/2010/05/28/eco-friendly-ereaders</id>
+    <id>http://mikeenglish.net/blog/2010/05/28/eco-friendly-ereaders</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p>As technology advances, many people have started questioning the future of printed books. However, ebook readers like the Amazon Kindle are still trying to catch up to all of the “features” so well established by physical paper books: dog-eared pages, marginalia, sharing, ease of navigation, portability, zero energy consumption, low eye strain, etc. Much of the concern regarding the future of print is associated with environmental concerns over the energy use and waste production by mechanisms of information distribution. Many feel that digitization provides a simple solution avoiding the problems caused by paper production. However, assumptions about the “eco-friendliness” of digitization go largely unexamined.</p>
@@ -98,9 +98,9 @@ authenticate herself for a variety of online services, including:</p>
   
   <entry>
     <title type="html"><![CDATA[Crying Wolf to Cash in on the Zeitgeist]]></title>
-    <link href="http://englishm.github.com/blog/2010/05/22/crying-wolf-to-cash-in-on-the-zeitgeist/"/>
+    <link href="http://mikeenglish.net/blog/2010/05/22/crying-wolf-to-cash-in-on-the-zeitgeist/"/>
     <updated>2010-05-22T00:00:00-04:00</updated>
-    <id>http://englishm.github.com/blog/2010/05/22/crying-wolf-to-cash-in-on-the-zeitgeist</id>
+    <id>http://mikeenglish.net/blog/2010/05/22/crying-wolf-to-cash-in-on-the-zeitgeist</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p>Maybe we’re not quite <a href="http://withoutmedia.wordpress.com/">addicted</a> to computer mediated communication, but we’re certainly becoming increasingly <a href="http://www.roughtype.com/archives/2010/05/not_addiction_d.php">dependent</a> on it. Nicholas Carr, author of <a href="http://www.betterworldbooks.com/Does-IT-Matter-Information-Technology-and-the-Corrosion-of-Competitive-Advantage-id-1591394449.aspx">Does IT Matter? Information Technology and the Corrosion of Competitive Advantage</a>, <a href="http://www.betterworldbooks.com/The-Big-Switch-id-0393333949.aspx">The Big Switch</a>, and the forthcoming book <a href="http://www.indiebound.org/book/9780393072228">The Shallows: What the Internet Is Doing to Our Brains</a>, argues that:</p>

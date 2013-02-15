@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Music | Mike English&#x27;s blog]]></title>
-  <link href="http://englishm.github.com/blog/blog/categories/music/atom.xml" rel="self"/>
-  <link href="http://englishm.github.com/blog/"/>
-  <updated>2013-02-15T12:24:54-05:00</updated>
-  <id>http://englishm.github.com/blog/</id>
+  <link href="http://mikeenglish.net/blog/blog/categories/music/atom.xml" rel="self"/>
+  <link href="http://mikeenglish.net/blog/"/>
+  <updated>2013-02-15T13:00:40-05:00</updated>
+  <id>http://mikeenglish.net/blog/</id>
   <author>
     <name><![CDATA[Mike English]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Incident at Primrose and West]]></title>
-    <link href="http://englishm.github.com/blog/2009/11/02/the-incident-at-primrose-and-west/"/>
+    <link href="http://mikeenglish.net/blog/2009/11/02/the-incident-at-primrose-and-west/"/>
     <updated>2009-11-02T00:00:00-05:00</updated>
-    <id>http://englishm.github.com/blog/2009/11/02/the-incident-at-primrose-and-west</id>
+    <id>http://mikeenglish.net/blog/2009/11/02/the-incident-at-primrose-and-west</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p>Local legend Chance Jones has a new album coming out this month on vinyl, CD, and as a digital download.  It’s worth your attention.</p>

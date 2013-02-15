@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Mike English&#x27;s blog]]></title>
-  <link href="http://englishm.github.com/blog/atom.xml" rel="self"/>
-  <link href="http://englishm.github.com/blog/"/>
-  <updated>2013-02-15T12:24:54-05:00</updated>
-  <id>http://englishm.github.com/blog/</id>
+  <link href="http://mikeenglish.net/blog/atom.xml" rel="self"/>
+  <link href="http://mikeenglish.net/blog/"/>
+  <updated>2013-02-15T13:00:40-05:00</updated>
+  <id>http://mikeenglish.net/blog/</id>
   <author>
     <name><![CDATA[Mike English]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Increasing Efficiency by Itself Doesn&#8217;t Employ People]]></title>
-    <link href="http://englishm.github.com/blog/2011/08/31/increasing-efficiency-by-itself-doesnt-employ-people/"/>
+    <link href="http://mikeenglish.net/blog/2011/08/31/increasing-efficiency-by-itself-doesnt-employ-people/"/>
     <updated>2011-08-31T00:00:00-04:00</updated>
-    <id>http://englishm.github.com/blog/2011/08/31/increasing-efficiency-by-itself-doesnt-employ-people</id>
+    <id>http://mikeenglish.net/blog/2011/08/31/increasing-efficiency-by-itself-doesnt-employ-people</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p><a href="http://edge.org/conversation/the-local-global-flip" title="The Local-Global Flip, or, &quot;The Lanier Effect&quot;">Jaron Lanier</a>:</p>
@@ -28,18 +28,18 @@
   
   <entry>
     <title type="html"><![CDATA[Blink]]></title>
-    <link href="http://englishm.github.com/blog/2011/08/16/arduino-blink/"/>
+    <link href="http://mikeenglish.net/blog/2011/08/16/arduino-blink/"/>
     <updated>2011-08-16T00:00:00-04:00</updated>
-    <id>http://englishm.github.com/blog/2011/08/16/arduino-blink</id>
+    <id>http://mikeenglish.net/blog/2011/08/16/arduino-blink</id>
     <content type="html"><![CDATA[<h1></h1>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Microstructure Influences Macrostructure]]></title>
-    <link href="http://englishm.github.com/blog/2010/12/21/microstructure-influences-macrostructure/"/>
+    <link href="http://mikeenglish.net/blog/2010/12/21/microstructure-influences-macrostructure/"/>
     <updated>2010-12-21T00:00:00-05:00</updated>
-    <id>http://englishm.github.com/blog/2010/12/21/microstructure-influences-macrostructure</id>
+    <id>http://mikeenglish.net/blog/2010/12/21/microstructure-influences-macrostructure</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p><a href="http://www.theatlantic.com/technology/archive/2010/12/the-hazards-of-nerd-supremacy-the-case-of-wikileaks/68217/" title="The Hazards of Nerd Supremacy: The Case of WikiLeaks">Jaron Lanier</a>:</p>
@@ -50,9 +50,9 @@
   
   <entry>
     <title type="html"><![CDATA[Part of the Nature of Human Communication]]></title>
-    <link href="http://englishm.github.com/blog/2010/11/29/part-of-the-nature-of-human-communication/"/>
+    <link href="http://mikeenglish.net/blog/2010/11/29/part-of-the-nature-of-human-communication/"/>
     <updated>2010-11-29T00:00:00-05:00</updated>
-    <id>http://englishm.github.com/blog/2010/11/29/part-of-the-nature-of-human-communication</id>
+    <id>http://mikeenglish.net/blog/2010/11/29/part-of-the-nature-of-human-communication</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p><a href="http://www.economist.com/blogs/democracyinamerica/2010/11/wikileaks">M.S. at The Economist’s Democracy in America Blog</a>:</p>
@@ -67,9 +67,9 @@
   
   <entry>
     <title type="html"><![CDATA[Facebook is Amazing]]></title>
-    <link href="http://englishm.github.com/blog/2010/11/21/facebook-is-amazing/"/>
+    <link href="http://mikeenglish.net/blog/2010/11/21/facebook-is-amazing/"/>
     <updated>2010-11-21T00:00:00-05:00</updated>
-    <id>http://englishm.github.com/blog/2010/11/21/facebook-is-amazing</id>
+    <id>http://mikeenglish.net/blog/2010/11/21/facebook-is-amazing</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p><a href="http://www.nytimes.com/2010/11/21/technology/21brain.html?_r=1&amp;pagewanted=all" title="NYTimes: Growing Up Digital, Wired for Distraction">Woodside High School student, Sam Crocker</a>:</p>
@@ -80,9 +80,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Online Conversation Space]]></title>
-    <link href="http://englishm.github.com/blog/2010/11/18/the-online-conversation-space/"/>
+    <link href="http://mikeenglish.net/blog/2010/11/18/the-online-conversation-space/"/>
     <updated>2010-11-18T00:00:00-05:00</updated>
-    <id>http://englishm.github.com/blog/2010/11/18/the-online-conversation-space</id>
+    <id>http://mikeenglish.net/blog/2010/11/18/the-online-conversation-space</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p><a href="http://technosociology.org/?p=212" title="Negotiating Privacy, Boundaries and Visibility in a Networked World: Why We Need to Move Beyond Opt-in vs. Opt-Out">Zeynep Tufekci</a>:</p>
@@ -93,9 +93,9 @@
   
   <entry>
     <title type="html"><![CDATA[Public-by-default, Private-through-effort]]></title>
-    <link href="http://englishm.github.com/blog/2010/11/18/public-by-default-private-through-effort/"/>
+    <link href="http://mikeenglish.net/blog/2010/11/18/public-by-default-private-through-effort/"/>
     <updated>2010-11-18T00:00:00-05:00</updated>
-    <id>http://englishm.github.com/blog/2010/11/18/public-by-default-private-through-effort</id>
+    <id>http://mikeenglish.net/blog/2010/11/18/public-by-default-private-through-effort</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p><a href="http://www.danah.org/papers/talks/2010/PrivacyGenerations.html" title="&quot;The Future of Privacy: How Privacy Norms Can Inform Regulation&quot;">danah boyd</a>:</p>
@@ -106,9 +106,9 @@
   
   <entry>
     <title type="html"><![CDATA[Malicious Interface Design]]></title>
-    <link href="http://englishm.github.com/blog/2010/11/18/malicious-interface-design/"/>
+    <link href="http://mikeenglish.net/blog/2010/11/18/malicious-interface-design/"/>
     <updated>2010-11-18T00:00:00-05:00</updated>
-    <id>http://englishm.github.com/blog/2010/11/18/malicious-interface-design</id>
+    <id>http://mikeenglish.net/blog/2010/11/18/malicious-interface-design</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p><a href="http://www.eecs.usma.edu/webs/people/sobiesk/Papers/p271-conti.pdf" title="Malicious Interface Design: Exploiting the User">Gregory Conti &amp; Edward Sobiesk</a> :</p>
@@ -119,9 +119,9 @@
   
   <entry>
     <title type="html"><![CDATA[Shopping Malls and Public Parks]]></title>
-    <link href="http://englishm.github.com/blog/2010/08/09/shopping-malls-and-public-parks/"/>
+    <link href="http://mikeenglish.net/blog/2010/08/09/shopping-malls-and-public-parks/"/>
     <updated>2010-08-09T00:00:00-04:00</updated>
-    <id>http://englishm.github.com/blog/2010/08/09/shopping-malls-and-public-parks</id>
+    <id>http://mikeenglish.net/blog/2010/08/09/shopping-malls-and-public-parks</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p>If  Facebook is the social web’s equivalent of a <a href="http://fuchs.uti.at/409/" title="“The world will be better if you share more“: Mark Zuckerberg, Facebook, and Economic Surveillance">shopping mall</a>, what would be the social web’s equivalent of a public park?</p>
@@ -132,9 +132,9 @@
   
   <entry>
     <title type="html"><![CDATA[Trusted Identities?]]></title>
-    <link href="http://englishm.github.com/blog/2010/06/26/trusted-identities/"/>
+    <link href="http://mikeenglish.net/blog/2010/06/26/trusted-identities/"/>
     <updated>2010-06-26T00:00:00-04:00</updated>
-    <id>http://englishm.github.com/blog/2010/06/26/trusted-identities</id>
+    <id>http://mikeenglish.net/blog/2010/06/26/trusted-identities</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p>The White House <a href="http://www.whitehouse.gov/blog/2010/06/25/national-strategy-trusted-identities-cyberspace">released</a> yesterday a draft document for a plan to create “Trusted Identities in Cyberspace.”</p>
@@ -167,9 +167,9 @@ authenticate herself for a variety of online services, including:</p>
   
   <entry>
     <title type="html"><![CDATA[Hyperlinks, distracted attention, and the semantic web]]></title>
-    <link href="http://englishm.github.com/blog/2010/06/01/hyperlinks/"/>
+    <link href="http://mikeenglish.net/blog/2010/06/01/hyperlinks/"/>
     <updated>2010-06-01T00:00:00-04:00</updated>
-    <id>http://englishm.github.com/blog/2010/06/01/hyperlinks</id>
+    <id>http://mikeenglish.net/blog/2010/06/01/hyperlinks</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p>Yesterday, Dr. Peter B. Reiner at The National Core for Neuroethics (an interdisciplinary research group dedicated to tackling the ethical, legal, policy and social implications of frontier technological developments in the neurosciences) commented<a href="#1">1</a> on one of the points Nicholas Carr makes in <em>The Shallows</em>. In the book<a href="#2">2</a>, Carr notes some recent studies that have shown a difference in the way people read text with hyperlinks versus the way people read text without hyperlinks. Simply put, hyperlinks are distracting. Internet use promotes a multitasking mindset that is changing the way our brains are wired, and hyperlinks are fundamental to this enabling infrastructure.</p>
@@ -187,9 +187,9 @@ authenticate herself for a variety of online services, including:</p>
   
   <entry>
     <title type="html"><![CDATA[Eco-friendly ereaders?]]></title>
-    <link href="http://englishm.github.com/blog/2010/05/28/eco-friendly-ereaders/"/>
+    <link href="http://mikeenglish.net/blog/2010/05/28/eco-friendly-ereaders/"/>
     <updated>2010-05-28T00:00:00-04:00</updated>
-    <id>http://englishm.github.com/blog/2010/05/28/eco-friendly-ereaders</id>
+    <id>http://mikeenglish.net/blog/2010/05/28/eco-friendly-ereaders</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p>As technology advances, many people have started questioning the future of printed books. However, ebook readers like the Amazon Kindle are still trying to catch up to all of the “features” so well established by physical paper books: dog-eared pages, marginalia, sharing, ease of navigation, portability, zero energy consumption, low eye strain, etc. Much of the concern regarding the future of print is associated with environmental concerns over the energy use and waste production by mechanisms of information distribution. Many feel that digitization provides a simple solution avoiding the problems caused by paper production. However, assumptions about the “eco-friendliness” of digitization go largely unexamined.</p>
@@ -202,9 +202,9 @@ authenticate herself for a variety of online services, including:</p>
   
   <entry>
     <title type="html"><![CDATA[Crying Wolf to Cash in on the Zeitgeist]]></title>
-    <link href="http://englishm.github.com/blog/2010/05/22/crying-wolf-to-cash-in-on-the-zeitgeist/"/>
+    <link href="http://mikeenglish.net/blog/2010/05/22/crying-wolf-to-cash-in-on-the-zeitgeist/"/>
     <updated>2010-05-22T00:00:00-04:00</updated>
-    <id>http://englishm.github.com/blog/2010/05/22/crying-wolf-to-cash-in-on-the-zeitgeist</id>
+    <id>http://mikeenglish.net/blog/2010/05/22/crying-wolf-to-cash-in-on-the-zeitgeist</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p>Maybe we’re not quite <a href="http://withoutmedia.wordpress.com/">addicted</a> to computer mediated communication, but we’re certainly becoming increasingly <a href="http://www.roughtype.com/archives/2010/05/not_addiction_d.php">dependent</a> on it. Nicholas Carr, author of <a href="http://www.betterworldbooks.com/Does-IT-Matter-Information-Technology-and-the-Corrosion-of-Competitive-Advantage-id-1591394449.aspx">Does IT Matter? Information Technology and the Corrosion of Competitive Advantage</a>, <a href="http://www.betterworldbooks.com/The-Big-Switch-id-0393333949.aspx">The Big Switch</a>, and the forthcoming book <a href="http://www.indiebound.org/book/9780393072228">The Shallows: What the Internet Is Doing to Our Brains</a>, argues that:</p>
@@ -217,9 +217,9 @@ authenticate herself for a variety of online services, including:</p>
   
   <entry>
     <title type="html"><![CDATA[North American Response to Ravenna]]></title>
-    <link href="http://englishm.github.com/blog/2009/11/05/north-american-response-to-ravenna/"/>
+    <link href="http://mikeenglish.net/blog/2009/11/05/north-american-response-to-ravenna/"/>
     <updated>2009-11-05T00:00:00-05:00</updated>
-    <id>http://englishm.github.com/blog/2009/11/05/north-american-response-to-ravenna</id>
+    <id>http://mikeenglish.net/blog/2009/11/05/north-american-response-to-ravenna</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p>The North American Orthodox-Catholic Theological Consultation met for its 77th session on October 22-24th. The meeting largely focused on forming a joint response to the 2007 “<a href="http://www.vatican.va/roman_curia/pontifical_councils/chrstuni/ch_orthodox_docs/rc_pc_chrstuni_doc_20071013_documento-ravenna_en.html" title="ECCLESIOLOGICAL AND CANONICAL CONSEQUENCES OF THE SACRAMENTAL NATURE OF THE CHURCH: ECCLESIAL COMMUNION, CONCILIARITY AND AUTHORITY">Ravenna Document</a>” published by the JICTD. Both the United States Conference of Catholic Bishops (USCCB) and the Standing Conference of the Canonical Orthodox Bishops of the Americas (SCOBA) recently issued press releases (<a href="http://www.usccb.org/comm/archives/2009/09-225.shtml" title="USCCB News Release">here</a> and <a href="http://www.scoba.us/articles/2759.html" title="SCOBA press release">here</a>), including the <a href="http://www.usccb.org/seia/RavennaResponse.pdf" title="A Common Response to the Joint International Commission for the Theological Dialogue Between the Roman Catholic Church and the Orthodox Church Regarding the Ravenna Document:  “Ecclesiological and Canonical Consequences of the Sacramental Nature of the Church: Ecclesial Communion, Conciliarity and Authority”">joint response</a>.</p>
@@ -234,9 +234,9 @@ authenticate herself for a variety of online services, including:</p>
   
   <entry>
     <title type="html"><![CDATA[De unione ecclesiarum]]></title>
-    <link href="http://englishm.github.com/blog/2009/11/03/de-unione-ecclesiarum/"/>
+    <link href="http://mikeenglish.net/blog/2009/11/03/de-unione-ecclesiarum/"/>
     <updated>2009-11-03T00:00:00-05:00</updated>
-    <id>http://englishm.github.com/blog/2009/11/03/de-unione-ecclesiarum</id>
+    <id>http://mikeenglish.net/blog/2009/11/03/de-unione-ecclesiarum</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p>I am always delighted to discover intelligent and level-headed scholars publishing their thoughts online. The recent discovery of Peter Gilbert’s blog, <a href="http://bekkos.wordpress.com/">De unione ecclesiarum</a> is no exception.</p>
@@ -251,9 +251,9 @@ authenticate herself for a variety of online services, including:</p>
   
   <entry>
     <title type="html"><![CDATA[The Incident at Primrose and West]]></title>
-    <link href="http://englishm.github.com/blog/2009/11/02/the-incident-at-primrose-and-west/"/>
+    <link href="http://mikeenglish.net/blog/2009/11/02/the-incident-at-primrose-and-west/"/>
     <updated>2009-11-02T00:00:00-05:00</updated>
-    <id>http://englishm.github.com/blog/2009/11/02/the-incident-at-primrose-and-west</id>
+    <id>http://mikeenglish.net/blog/2009/11/02/the-incident-at-primrose-and-west</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p>Local legend Chance Jones has a new album coming out this month on vinyl, CD, and as a digital download.  It’s worth your attention.</p>
@@ -274,9 +274,9 @@ authenticate herself for a variety of online services, including:</p>
   
   <entry>
     <title type="html"><![CDATA[Google Wave &#8211; First impressions]]></title>
-    <link href="http://englishm.github.com/blog/2009/10/30/google-wave-first-impressions/"/>
+    <link href="http://mikeenglish.net/blog/2009/10/30/google-wave-first-impressions/"/>
     <updated>2009-10-30T00:00:00-04:00</updated>
-    <id>http://englishm.github.com/blog/2009/10/30/google-wave-first-impressions</id>
+    <id>http://mikeenglish.net/blog/2009/10/30/google-wave-first-impressions</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p>I’ve been playing with <a href="http://wave.google.com/help/wave/about.html">Google Wave</a> for about a week now, but I still haven’t figured out what to do with it.  Yes, it has a lot of very cool features, but the as the combination is so unlike existing communication technology, it’s very difficult to know just how to use it.  I doesn’t help that at this point there is virtually no integration with existing communication channels (e-mail, IM, twitter) making it so that you have to be <em>on</em> Google Wave to know if anything is happening on Google Wave.  Most of the friends I’ve invited so far seem to have given up on trying to force this new technology into their lives.  There’s probably some wisdom in that, but I’d like to see this catch on because I <em>do</em> think it has a lot to offer.</p>
@@ -293,9 +293,9 @@ authenticate herself for a variety of online services, including:</p>
   
   <entry>
     <title type="html"><![CDATA[Considering Primacy]]></title>
-    <link href="http://englishm.github.com/blog/2009/10/30/considering-primacy/"/>
+    <link href="http://mikeenglish.net/blog/2009/10/30/considering-primacy/"/>
     <updated>2009-10-30T00:00:00-04:00</updated>
-    <id>http://englishm.github.com/blog/2009/10/30/considering-primacy</id>
+    <id>http://mikeenglish.net/blog/2009/10/30/considering-primacy</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p>The Joint International Commission for the Theological Dialogue between the Roman Catholic Church and the Orthodox Church (what a mouthful!  ”JICTD” from now on) wrapped up its 11th plenary session in Cyprus last week.  On the agenda was a discussion of “The Role of the Bishop of Rome in the Communion of the Church in the First Millennium.”  Some Greek monastics, fearing that the meeting was an attempt to subjugate the Orthodox to the authority of Rome, organized protests and circulated misleading information about the nature of the event.</p>
@@ -338,9 +338,9 @@ authenticate herself for a variety of online services, including:</p>
   
   <entry>
     <title type="html"><![CDATA[Blogging]]></title>
-    <link href="http://englishm.github.com/blog/2009/10/28/blogging/"/>
+    <link href="http://mikeenglish.net/blog/2009/10/28/blogging/"/>
     <updated>2009-10-28T00:00:00-04:00</updated>
-    <id>http://englishm.github.com/blog/2009/10/28/blogging</id>
+    <id>http://mikeenglish.net/blog/2009/10/28/blogging</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p>I am considering using this blog for topics other than technology – namely theology and music.</p>
@@ -356,9 +356,9 @@ Perhaps if I write consistently enough, a gestalt of the whole will emerge.</p>
   
   <entry>
     <title type="html"><![CDATA[Thinking About Hardware]]></title>
-    <link href="http://englishm.github.com/blog/2009/07/12/thinking-about-hardware/"/>
+    <link href="http://mikeenglish.net/blog/2009/07/12/thinking-about-hardware/"/>
     <updated>2009-07-12T00:00:00-04:00</updated>
-    <id>http://englishm.github.com/blog/2009/07/12/thinking-about-hardware</id>
+    <id>http://mikeenglish.net/blog/2009/07/12/thinking-about-hardware</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p>News of <a href="http://googleblog.blogspot.com/2009/07/introducing-google-chrome-os.html">Google’s plans for Chrome OS</a> have started me thinking about computer hardware – trying to decide what my next upgrade will be. While I can’t afford anything new in the immediate future (I’m a poor college student), I’m beginning to grow anxious about my aging PowerBook’s health.</p>
