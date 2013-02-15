@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Everything | Mike English&#x27;s blog]]></title>
+  <link href="http://englishm.github.com/blog/blog/categories/everything/atom.xml" rel="self"/>
+  <link href="http://englishm.github.com/blog/"/>
+  <updated>2013-02-15T09:57:31-05:00</updated>
+  <id>http://englishm.github.com/blog/</id>
+  <author>
+    <name><![CDATA[Mike English]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Shopping Malls and Public Parks]]></title>
+    <link href="http://englishm.github.com/blog/2010/08/09/shopping-malls-and-public-parks/"/>
+    <updated>2010-08-09T00:00:00-04:00</updated>
+    <id>http://englishm.github.com/blog/2010/08/09/shopping-malls-and-public-parks</id>
+    <content type="html"><![CDATA[<h1></h1>
+
+<p>If  Facebook is the social web’s equivalent of a <a href="http://fuchs.uti.at/409/" title="“The world will be better if you share more“: Mark Zuckerberg, Facebook, and Economic Surveillance">shopping mall</a>, what would be the social web’s equivalent of a public park?</p>
+
+<p>We may already have a <a href="http://en.wikipedia.org/wiki/Wikipedia">repository</a> for a kind of knowledge commons, but what about public spaces? As the Internet becomes increasingly <a href="http://thephilosophyofinformation.blogspot.com/2010/08/construction-of-personal-identities.html" title="The construction of personal identities online">the environment in which identities are formed</a>, we need to find ways to build safe, public, non-commercial spaces online.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Trusted Identities?]]></title>
+    <link href="http://englishm.github.com/blog/2010/06/26/trusted-identities/"/>
+    <updated>2010-06-26T00:00:00-04:00</updated>
+    <id>http://englishm.github.com/blog/2010/06/26/trusted-identities</id>
+    <content type="html"><![CDATA[<h1></h1>
+
+<p>The White House <a href="http://www.whitehouse.gov/blog/2010/06/25/national-strategy-trusted-identities-cyberspace">released</a> yesterday a draft document for a plan to create “Trusted Identities in Cyberspace.”</p>
+
+<p>At first it sounds like a Good Thing… “no longer should individuals have to remember an ever-expanding and potentially insecure list of usernames and passwords to login into various online services,” it would be “user-centric,” etc. … this sounds like <a href="http://openid.net/">OpenID</a>. But it’s not.<br/>
+The <a href="http://www.dhs.gov/xlibrary/assets/ns_tic.pdf">draft</a> imagines a world where:</p>
+
+<blockquote><p>An individual voluntarily requests a smart identity card from<br/>
+her home state. The individual chooses to use the card to<br/>
+authenticate herself for a variety of online services, including:</p>
+
+<ul>
+<li>Credit card purchases,</li>
+<li>Online banking,</li>
+<li>Accessing electronic health care records</li>
+<li>Securely accessing her personal laptop computer,</li>
+<li>Anonymously posting blog entries, and</li>
+<li>Logging onto Internet email services using a pseudonym</li>
+</ul>
+</blockquote>
+
+<p>(cf. “Envision It!” box on pg 4)</p>
+
+<p>This is a world where you need a “voluntarily” obtained ID card just to access a laptop that is compatible with a closed “Internet.”<br/>
+(It’s telling that this initiative is a project of the Department of Homeland Security, having consulted with over 70 “stakeholders.”)</p>
+
+<p>The document is essentially the groundwork for a plan to eliminate real online anonymity/pseudonymity by incentivizing buy-in to an “Identity Ecosystem.” Combine this with recent the Supreme Court decision concluding that names and addresses of petitioners are <a href="http://www.supremecourt.gov/opinions/09pdf/09-559.pdf">part of the public record</a>, and you have the ingredients for a serious clash between political dissidents steeped in the cyber-culture of <a href="http://en.wikipedia.org/wiki/Internet">the largest ever “functioning anarchy”</a> in recorded history and the powers that be in government and corporate America.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hyperlinks, distracted attention, and the semantic web]]></title>
+    <link href="http://englishm.github.com/blog/2010/06/01/hyperlinks/"/>
+    <updated>2010-06-01T00:00:00-04:00</updated>
+    <id>http://englishm.github.com/blog/2010/06/01/hyperlinks</id>
+    <content type="html"><![CDATA[<h1></h1>
+
+<p>Yesterday, Dr. Peter B. Reiner at The National Core for Neuroethics (an interdisciplinary research group dedicated to tackling the ethical, legal, policy and social implications of frontier technological developments in the neurosciences) commented<a href="#1">1</a> on one of the points Nicholas Carr makes in <em>The Shallows</em>. In the book<a href="#2">2</a>, Carr notes some recent studies that have shown a difference in the way people read text with hyperlinks versus the way people read text without hyperlinks. Simply put, hyperlinks are distracting. Internet use promotes a multitasking mindset that is changing the way our brains are wired, and hyperlinks are fundamental to this enabling infrastructure.</p>
+
+<p>Reiner writes:</p>
+
+<blockquote><p>The neuroethical concern is not just that the hyperlinked world in which we live is changing our brains, because every encounter that we have with the environment around us changes our brains (members of the Core, as well as my wife, will be rolling their eyes about now, thinking “Peter always says that”. But it happens to be true. Even reading this blog post, in some way, is changing your brain.) The nub of the issue is this: there is an important distinction between encounters which change the informational content of your brain and those that change the way your brain processes information. Most importantly, these changes are going on without anyone having intended them to come into being. Young children are growing up in an environment in which multitasking is the norm and not the exception, and we are still unsure of the effects. We put more effort into insuring the safety of toys than we have of the way that people read on the internet. This might be imprudent.</p></blockquote>
+
+<p>I have considered using a combination of footnotes and hyperlinks in my blog posts due to similar concerns—in fact, I’m experimenting with one format in this post—but I worry about losing machine-readable content. Is there a semantic web solution that would allow the hyperlinking data to be accessible to crawlers in the appropriate context while also preventing the hyperlinks from distracting readers? Is there an existing ontology that could be used to add invisible metadata to traditional footnotes? How do you link a semantically rich bibliographic entry to its reference within the text? Might COinS work? Bibliographic footnotes could be encapsulated in a span containing an OpenURL description of the item, but could processing agents link the footnote anchor to its reference within the text? What is the value of that contextual information anyways?</p>
+
+<p><a href="#ref1">1.</a> Peter B. Reiner, “Hyperlinks,” Neuroethics at the Core, <br/>
+<a href="#ref2">2.</a> Nicholas Carr, <em><a href="http://www.betterworldbooks.com/The-Shallows-id-0393072223.aspx">The Shallows: What the Internet Is Doing to Our Brains</a></em> (New York: W. W. Norton &amp; Company, 2010).</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Eco-friendly ereaders?]]></title>
+    <link href="http://englishm.github.com/blog/2010/05/28/eco-friendly-ereaders/"/>
+    <updated>2010-05-28T00:00:00-04:00</updated>
+    <id>http://englishm.github.com/blog/2010/05/28/eco-friendly-ereaders</id>
+    <content type="html"><![CDATA[<h1></h1>
+
+<p>As technology advances, many people have started questioning the future of printed books. However, ebook readers like the Amazon Kindle are still trying to catch up to all of the “features” so well established by physical paper books: dog-eared pages, marginalia, sharing, ease of navigation, portability, zero energy consumption, low eye strain, etc. Much of the concern regarding the future of print is associated with environmental concerns over the energy use and waste production by mechanisms of information distribution. Many feel that digitization provides a simple solution avoiding the problems caused by paper production. However, assumptions about the “eco-friendliness” of digitization go largely unexamined.</p>
+
+<p>In the past ten years, two studies (that I know of—please let me know if there are others!) have been conducted to compare the environmental impact of ebook readers and printed books. The <a href="http://css.snre.umich.edu/css_doc/CSS03-04.pdf">first study</a>, released in 2003, was conducted by Greg Kozak, a graduate student at the University of Michigan’s Center for Sustainable Systems. Using the ISO standards for Life Cycle Inventory Analysis (LCA), an emerging standard analysis tool in the field of industrial ecology, he concluded that printed books pose a greater threat to the environment than ebook readers. However, he failed to account for the toxicity of electronic components, the biodegradable and renewable nature of paper, and the planned obsolescence of consumer electronic devices. Cleantech Group produced a similar study with similar findings in 2009, but has not made the report available for public reading (“<a href="http://cleantech.com/news/4867/cleantech-group-finds-positive-envi">Cleantech Group report: E-readers a win for carbon emissions</a>” 2009). Therefore, neither LCA is sufficient to justify a large-scale change in the way we store and distribute information.</p>
+
+<p>Here’s a thought experiment: imagine a book that sits on a library shelf for 30 years — you can pick up and read it long over 30 years after it is first printed. Now imagine a computer sitting on a desk for 30 years — after 30 years, computer technology will have advanced so much that a workstation will have gone obsolete several times over. Indeed, the digital information of an ebook may be transferred from one computer to the next with ease, but what about the waste of all the hardware that needs upgrades and replacement along the way? Unlike paper, which is biodegradable, computer hardware is not biodegradable, and it is full of toxic chemicals. With more paper being made from recycled post-consumer material and/or sourced from sustainable pulpwood forests, environmental concerns about modern printed books pales in comparison to the numerous problems with electronic devices.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Crying Wolf to Cash in on the Zeitgeist]]></title>
+    <link href="http://englishm.github.com/blog/2010/05/22/crying-wolf-to-cash-in-on-the-zeitgeist/"/>
+    <updated>2010-05-22T00:00:00-04:00</updated>
+    <id>http://englishm.github.com/blog/2010/05/22/crying-wolf-to-cash-in-on-the-zeitgeist</id>
+    <content type="html"><![CDATA[<h1></h1>
+
+<p>Maybe we’re not quite <a href="http://withoutmedia.wordpress.com/">addicted</a> to computer mediated communication, but we’re certainly becoming increasingly <a href="http://www.roughtype.com/archives/2010/05/not_addiction_d.php">dependent</a> on it. Nicholas Carr, author of <a href="http://www.betterworldbooks.com/Does-IT-Matter-Information-Technology-and-the-Corrosion-of-Competitive-Advantage-id-1591394449.aspx">Does IT Matter? Information Technology and the Corrosion of Competitive Advantage</a>, <a href="http://www.betterworldbooks.com/The-Big-Switch-id-0393333949.aspx">The Big Switch</a>, and the forthcoming book <a href="http://www.indiebound.org/book/9780393072228">The Shallows: What the Internet Is Doing to Our Brains</a>, argues that:</p>
+
+<blockquote><p>The problem with the addiction metaphor … is that it presents the normal as abnormal and hence makes it easy for us to distance ourselves from our own behavior and its consequences. By dismissing talk of “Internet addiction” as rhetorical overkill, which it is, we also avoid undertaking an honest examination of how deeply our media devices have been woven into our lives and how they are shaping those lives in far-reaching ways, for better and for worse. In the course of just a decade, we have become profoundly dependent on a new and increasingly pervasive technology.</p></blockquote>
+
+<p>Too often today, concerns about the implications of technology are <a href="http://xkcd.com/743/">dismissed</a> because of the over-anxious language used by <a href="http://www.readwriteweb.com/archives/unbelievable_wsj_calls_referring_urls_a_privacy_vi.php">under-informed news media</a> crying wolf to cash in on the zeitgeist. What are we doing to ensure that the voices of well-informed scholars and experts are not lost in the cacophony caused by the democratization of media? For example, how do we engage the public in civil discourse about issues like privacy, identity, and the changing face of media consumption before their attention becomes <a href="http://news.google.com/news/more?pz=1&amp;cf=all&amp;ncl=d0AdDqEmRQ0iZ9MT3YPfnw0HiAinM">over</a>-<a href="http://news.google.com/news/more?pz=1&amp;cf=all&amp;ncl=dUxe1Q9rvoFGcaMXxwUWhxQCCtfvM">saturated</a> by <a href="http://news.google.com/news/more?pz=1&amp;cf=all&amp;ncl=d3Ig2SnKGIFS4kMPXeadOtFdXk5vM">base sensationalism</a>?</p>
+]]></content>
+  </entry>
+  
+</feed>

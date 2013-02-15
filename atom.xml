@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Mike English&#x27;s blog]]></title>
+  <link href="http://englishm.github.com/blog/atom.xml" rel="self"/>
+  <link href="http://englishm.github.com/blog/"/>
+  <updated>2013-02-15T09:57:31-05:00</updated>
+  <id>http://englishm.github.com/blog/</id>
+  <author>
+    <name><![CDATA[Mike English]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Increasing Efficiency by Itself Doesn&#8217;t Employ People]]></title>
+    <link href="http://englishm.github.com/blog/2011/08/31/increasing-efficiency-by-itself-doesnt-employ-people/"/>
+    <updated>2011-08-31T00:00:00-04:00</updated>
+    <id>http://englishm.github.com/blog/2011/08/31/increasing-efficiency-by-itself-doesnt-employ-people</id>
+    <content type="html"><![CDATA[<h1></h1>
+
+<p><a href="http://edge.org/conversation/the-local-global-flip" title="The Local-Global Flip, or, &quot;The Lanier Effect&quot;">Jaron Lanier</a>:</p>
+
+<blockquote><p> There is this huge increase in efficiency, but the interesting thing is that increasing efficiency by itself doesn’t employ people. There is a difference between saving and making money when you’re unemployed. Once you’re already rich, saving money and making money is the same thing, but for people who are on the bottom or even in the middle classes, saving money doesn’t help you if you don’t have the money to save in the first place.</p></blockquote>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Blink]]></title>
+    <link href="http://englishm.github.com/blog/2011/08/16/arduino-blink/"/>
+    <updated>2011-08-16T00:00:00-04:00</updated>
+    <id>http://englishm.github.com/blog/2011/08/16/arduino-blink</id>
+    <content type="html"><![CDATA[<h1></h1>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Microstructure Influences Macrostructure]]></title>
+    <link href="http://englishm.github.com/blog/2010/12/21/microstructure-influences-macrostructure/"/>
+    <updated>2010-12-21T00:00:00-05:00</updated>
+    <id>http://englishm.github.com/blog/2010/12/21/microstructure-influences-macrostructure</id>
+    <content type="html"><![CDATA[<h1></h1>
+
+<p><a href="http://www.theatlantic.com/technology/archive/2010/12/the-hazards-of-nerd-supremacy-the-case-of-wikileaks/68217/" title="The Hazards of Nerd Supremacy: The Case of WikiLeaks">Jaron Lanier</a>:</p>
+
+<blockquote><p>It is often the case that microstructure influences macrostructure. In the case of digital systems, where the microstructure is bits that are either completely on or completely off, it is easiest to build big things that tend to peg completely one way or another. You can easily be completely anonymous online, or utterly revealed, but it is hard to find an in-between spot.</p></blockquote>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Part of the Nature of Human Communication]]></title>
+    <link href="http://englishm.github.com/blog/2010/11/29/part-of-the-nature-of-human-communication/"/>
+    <updated>2010-11-29T00:00:00-05:00</updated>
+    <id>http://englishm.github.com/blog/2010/11/29/part-of-the-nature-of-human-communication</id>
+    <content type="html"><![CDATA[<h1></h1>
+
+<p><a href="http://www.economist.com/blogs/democracyinamerica/2010/11/wikileaks">M.S. at The Economist’s Democracy in America Blog</a>:</p>
+
+<blockquote><p>It’s part of the nature of human communication that one doesn’t always say the same thing to every audience. There are perfectly good reasons why you don’t always tell the same story to your boss as you do to your spouse. There are things Washington needs to tell Riyadh to explain what it’s just told Jerusalem and things Washington needs to tell Jerusalem to explain what it’s just told Riyadh, and these cables shouldn’t be crossed. There’s nothing wrong with this. It’s inevitable. And it wouldn’t make the world a better place if Washington were unable to say anything to Jerusalem without its being heard by Riyadh, any more than it would if you were unable to tell your spouse anything without its being heard by your boss.</p>
+
+<p>…</p>
+
+<p>[I]t definitely seems like we’re learning a lesson here: while information may want to be free, human beings are usually better off when it’s on a leash.</p></blockquote>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Facebook is Amazing]]></title>
+    <link href="http://englishm.github.com/blog/2010/11/21/facebook-is-amazing/"/>
+    <updated>2010-11-21T00:00:00-05:00</updated>
+    <id>http://englishm.github.com/blog/2010/11/21/facebook-is-amazing</id>
+    <content type="html"><![CDATA[<h1></h1>
+
+<p><a href="http://www.nytimes.com/2010/11/21/technology/21brain.html?_r=1&amp;pagewanted=all" title="NYTimes: Growing Up Digital, Wired for Distraction">Woodside High School student, Sam Crocker</a>:</p>
+
+<blockquote><p>Facebook is amazing because it feels like you’re doing something and you’re not doing anything. It’s the absence of doing something, but you feel gratified anyway.</p></blockquote>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Online Conversation Space]]></title>
+    <link href="http://englishm.github.com/blog/2010/11/18/the-online-conversation-space/"/>
+    <updated>2010-11-18T00:00:00-05:00</updated>
+    <id>http://englishm.github.com/blog/2010/11/18/the-online-conversation-space</id>
+    <content type="html"><![CDATA[<h1></h1>
+
+<p><a href="http://technosociology.org/?p=212" title="Negotiating Privacy, Boundaries and Visibility in a Networked World: Why We Need to Move Beyond Opt-in vs. Opt-Out">Zeynep Tufekci</a>:</p>
+
+<blockquote><p>While most people are aware that online places have different characteristics compared with offline spaces, it is hard to carry out everyday interactions under the shadow of this knowledge. For example, most college students interact online mostly with people they also interact with offline.  So, the online conversation space socio-mentally feels like hanging out with friends which tends to happen in enclosed spaces bounded by walls, entered through doors, scannable visibly, etc. It is hard to have a conversation with one’s close friends while constantly thinking: “Maybe this will end up in the news tommorow; maybe my boss will see this; maybe my professor will see this.” After awhile the online place becomes normalized into the intuitions we have from offline places because of the nature of the interaction in them.</p></blockquote>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Public-by-default, Private-through-effort]]></title>
+    <link href="http://englishm.github.com/blog/2010/11/18/public-by-default-private-through-effort/"/>
+    <updated>2010-11-18T00:00:00-05:00</updated>
+    <id>http://englishm.github.com/blog/2010/11/18/public-by-default-private-through-effort</id>
+    <content type="html"><![CDATA[<h1></h1>
+
+<p><a href="http://www.danah.org/papers/talks/2010/PrivacyGenerations.html" title="&quot;The Future of Privacy: How Privacy Norms Can Inform Regulation&quot;">danah boyd</a>:</p>
+
+<blockquote><p>What’s different about the Internet is not about a radical shift in social norms.  What’s different has to do with how the architecture shifts the balance of power in terms of visibility.  In online public spaces, interactions are public-by-default, private-through-effort, the exact opposite of what we experience offline.  There is no equivalent to the cafe where you can have a private conversation in public with a close friend without thinking about who might overhear. Your online conversations are easily overheard.  And they’re often persistent, searchable, and easily spreadable. Online, we have to put effort into limiting how far information flows. We have to consciously act to curb visibility.  This runs counter to every experience we’ve ever had in unmediated environments.</p></blockquote>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Malicious Interface Design]]></title>
+    <link href="http://englishm.github.com/blog/2010/11/18/malicious-interface-design/"/>
+    <updated>2010-11-18T00:00:00-05:00</updated>
+    <id>http://englishm.github.com/blog/2010/11/18/malicious-interface-design</id>
+    <content type="html"><![CDATA[<h1></h1>
+
+<p><a href="http://www.eecs.usma.edu/webs/people/sobiesk/Papers/p271-conti.pdf" title="Malicious Interface Design: Exploiting the User">Gregory Conti &amp; Edward Sobiesk</a> :</p>
+
+<blockquote><p>Malicious interfaces are commonplace on the web, and to a lesser degree in operating system distributions and individual software applications. They are employed for a variety of reasons that are often linked to direct or indirect acquisition of revenue. Revenue driven motivations include selling a product or service, increasing brand recognition, gathering personal information from the user, and obfuscating legally mandated but undesirable information from the user.</p></blockquote>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Shopping Malls and Public Parks]]></title>
+    <link href="http://englishm.github.com/blog/2010/08/09/shopping-malls-and-public-parks/"/>
+    <updated>2010-08-09T00:00:00-04:00</updated>
+    <id>http://englishm.github.com/blog/2010/08/09/shopping-malls-and-public-parks</id>
+    <content type="html"><![CDATA[<h1></h1>
+
+<p>If  Facebook is the social web’s equivalent of a <a href="http://fuchs.uti.at/409/" title="“The world will be better if you share more“: Mark Zuckerberg, Facebook, and Economic Surveillance">shopping mall</a>, what would be the social web’s equivalent of a public park?</p>
+
+<p>We may already have a <a href="http://en.wikipedia.org/wiki/Wikipedia">repository</a> for a kind of knowledge commons, but what about public spaces? As the Internet becomes increasingly <a href="http://thephilosophyofinformation.blogspot.com/2010/08/construction-of-personal-identities.html" title="The construction of personal identities online">the environment in which identities are formed</a>, we need to find ways to build safe, public, non-commercial spaces online.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Trusted Identities?]]></title>
+    <link href="http://englishm.github.com/blog/2010/06/26/trusted-identities/"/>
+    <updated>2010-06-26T00:00:00-04:00</updated>
+    <id>http://englishm.github.com/blog/2010/06/26/trusted-identities</id>
+    <content type="html"><![CDATA[<h1></h1>
+
+<p>The White House <a href="http://www.whitehouse.gov/blog/2010/06/25/national-strategy-trusted-identities-cyberspace">released</a> yesterday a draft document for a plan to create “Trusted Identities in Cyberspace.”</p>
+
+<p>At first it sounds like a Good Thing… “no longer should individuals have to remember an ever-expanding and potentially insecure list of usernames and passwords to login into various online services,” it would be “user-centric,” etc. … this sounds like <a href="http://openid.net/">OpenID</a>. But it’s not.<br/>
+The <a href="http://www.dhs.gov/xlibrary/assets/ns_tic.pdf">draft</a> imagines a world where:</p>
+
+<blockquote><p>An individual voluntarily requests a smart identity card from<br/>
+her home state. The individual chooses to use the card to<br/>
+authenticate herself for a variety of online services, including:</p>
+
+<ul>
+<li>Credit card purchases,</li>
+<li>Online banking,</li>
+<li>Accessing electronic health care records</li>
+<li>Securely accessing her personal laptop computer,</li>
+<li>Anonymously posting blog entries, and</li>
+<li>Logging onto Internet email services using a pseudonym</li>
+</ul>
+</blockquote>
+
+<p>(cf. “Envision It!” box on pg 4)</p>
+
+<p>This is a world where you need a “voluntarily” obtained ID card just to access a laptop that is compatible with a closed “Internet.”<br/>
+(It’s telling that this initiative is a project of the Department of Homeland Security, having consulted with over 70 “stakeholders.”)</p>
+
+<p>The document is essentially the groundwork for a plan to eliminate real online anonymity/pseudonymity by incentivizing buy-in to an “Identity Ecosystem.” Combine this with recent the Supreme Court decision concluding that names and addresses of petitioners are <a href="http://www.supremecourt.gov/opinions/09pdf/09-559.pdf">part of the public record</a>, and you have the ingredients for a serious clash between political dissidents steeped in the cyber-culture of <a href="http://en.wikipedia.org/wiki/Internet">the largest ever “functioning anarchy”</a> in recorded history and the powers that be in government and corporate America.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hyperlinks, distracted attention, and the semantic web]]></title>
+    <link href="http://englishm.github.com/blog/2010/06/01/hyperlinks/"/>
+    <updated>2010-06-01T00:00:00-04:00</updated>
+    <id>http://englishm.github.com/blog/2010/06/01/hyperlinks</id>
+    <content type="html"><![CDATA[<h1></h1>
+
+<p>Yesterday, Dr. Peter B. Reiner at The National Core for Neuroethics (an interdisciplinary research group dedicated to tackling the ethical, legal, policy and social implications of frontier technological developments in the neurosciences) commented<a href="#1">1</a> on one of the points Nicholas Carr makes in <em>The Shallows</em>. In the book<a href="#2">2</a>, Carr notes some recent studies that have shown a difference in the way people read text with hyperlinks versus the way people read text without hyperlinks. Simply put, hyperlinks are distracting. Internet use promotes a multitasking mindset that is changing the way our brains are wired, and hyperlinks are fundamental to this enabling infrastructure.</p>
+
+<p>Reiner writes:</p>
+
+<blockquote><p>The neuroethical concern is not just that the hyperlinked world in which we live is changing our brains, because every encounter that we have with the environment around us changes our brains (members of the Core, as well as my wife, will be rolling their eyes about now, thinking “Peter always says that”. But it happens to be true. Even reading this blog post, in some way, is changing your brain.) The nub of the issue is this: there is an important distinction between encounters which change the informational content of your brain and those that change the way your brain processes information. Most importantly, these changes are going on without anyone having intended them to come into being. Young children are growing up in an environment in which multitasking is the norm and not the exception, and we are still unsure of the effects. We put more effort into insuring the safety of toys than we have of the way that people read on the internet. This might be imprudent.</p></blockquote>
+
+<p>I have considered using a combination of footnotes and hyperlinks in my blog posts due to similar concerns—in fact, I’m experimenting with one format in this post—but I worry about losing machine-readable content. Is there a semantic web solution that would allow the hyperlinking data to be accessible to crawlers in the appropriate context while also preventing the hyperlinks from distracting readers? Is there an existing ontology that could be used to add invisible metadata to traditional footnotes? How do you link a semantically rich bibliographic entry to its reference within the text? Might COinS work? Bibliographic footnotes could be encapsulated in a span containing an OpenURL description of the item, but could processing agents link the footnote anchor to its reference within the text? What is the value of that contextual information anyways?</p>
+
+<p><a href="#ref1">1.</a> Peter B. Reiner, “Hyperlinks,” Neuroethics at the Core, <br/>
+<a href="#ref2">2.</a> Nicholas Carr, <em><a href="http://www.betterworldbooks.com/The-Shallows-id-0393072223.aspx">The Shallows: What the Internet Is Doing to Our Brains</a></em> (New York: W. W. Norton &amp; Company, 2010).</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Eco-friendly ereaders?]]></title>
+    <link href="http://englishm.github.com/blog/2010/05/28/eco-friendly-ereaders/"/>
+    <updated>2010-05-28T00:00:00-04:00</updated>
+    <id>http://englishm.github.com/blog/2010/05/28/eco-friendly-ereaders</id>
+    <content type="html"><![CDATA[<h1></h1>
+
+<p>As technology advances, many people have started questioning the future of printed books. However, ebook readers like the Amazon Kindle are still trying to catch up to all of the “features” so well established by physical paper books: dog-eared pages, marginalia, sharing, ease of navigation, portability, zero energy consumption, low eye strain, etc. Much of the concern regarding the future of print is associated with environmental concerns over the energy use and waste production by mechanisms of information distribution. Many feel that digitization provides a simple solution avoiding the problems caused by paper production. However, assumptions about the “eco-friendliness” of digitization go largely unexamined.</p>
+
+<p>In the past ten years, two studies (that I know of—please let me know if there are others!) have been conducted to compare the environmental impact of ebook readers and printed books. The <a href="http://css.snre.umich.edu/css_doc/CSS03-04.pdf">first study</a>, released in 2003, was conducted by Greg Kozak, a graduate student at the University of Michigan’s Center for Sustainable Systems. Using the ISO standards for Life Cycle Inventory Analysis (LCA), an emerging standard analysis tool in the field of industrial ecology, he concluded that printed books pose a greater threat to the environment than ebook readers. However, he failed to account for the toxicity of electronic components, the biodegradable and renewable nature of paper, and the planned obsolescence of consumer electronic devices. Cleantech Group produced a similar study with similar findings in 2009, but has not made the report available for public reading (“<a href="http://cleantech.com/news/4867/cleantech-group-finds-positive-envi">Cleantech Group report: E-readers a win for carbon emissions</a>” 2009). Therefore, neither LCA is sufficient to justify a large-scale change in the way we store and distribute information.</p>
+
+<p>Here’s a thought experiment: imagine a book that sits on a library shelf for 30 years — you can pick up and read it long over 30 years after it is first printed. Now imagine a computer sitting on a desk for 30 years — after 30 years, computer technology will have advanced so much that a workstation will have gone obsolete several times over. Indeed, the digital information of an ebook may be transferred from one computer to the next with ease, but what about the waste of all the hardware that needs upgrades and replacement along the way? Unlike paper, which is biodegradable, computer hardware is not biodegradable, and it is full of toxic chemicals. With more paper being made from recycled post-consumer material and/or sourced from sustainable pulpwood forests, environmental concerns about modern printed books pales in comparison to the numerous problems with electronic devices.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Crying Wolf to Cash in on the Zeitgeist]]></title>
+    <link href="http://englishm.github.com/blog/2010/05/22/crying-wolf-to-cash-in-on-the-zeitgeist/"/>
+    <updated>2010-05-22T00:00:00-04:00</updated>
+    <id>http://englishm.github.com/blog/2010/05/22/crying-wolf-to-cash-in-on-the-zeitgeist</id>
+    <content type="html"><![CDATA[<h1></h1>
+
+<p>Maybe we’re not quite <a href="http://withoutmedia.wordpress.com/">addicted</a> to computer mediated communication, but we’re certainly becoming increasingly <a href="http://www.roughtype.com/archives/2010/05/not_addiction_d.php">dependent</a> on it. Nicholas Carr, author of <a href="http://www.betterworldbooks.com/Does-IT-Matter-Information-Technology-and-the-Corrosion-of-Competitive-Advantage-id-1591394449.aspx">Does IT Matter? Information Technology and the Corrosion of Competitive Advantage</a>, <a href="http://www.betterworldbooks.com/The-Big-Switch-id-0393333949.aspx">The Big Switch</a>, and the forthcoming book <a href="http://www.indiebound.org/book/9780393072228">The Shallows: What the Internet Is Doing to Our Brains</a>, argues that:</p>
+
+<blockquote><p>The problem with the addiction metaphor … is that it presents the normal as abnormal and hence makes it easy for us to distance ourselves from our own behavior and its consequences. By dismissing talk of “Internet addiction” as rhetorical overkill, which it is, we also avoid undertaking an honest examination of how deeply our media devices have been woven into our lives and how they are shaping those lives in far-reaching ways, for better and for worse. In the course of just a decade, we have become profoundly dependent on a new and increasingly pervasive technology.</p></blockquote>
+
+<p>Too often today, concerns about the implications of technology are <a href="http://xkcd.com/743/">dismissed</a> because of the over-anxious language used by <a href="http://www.readwriteweb.com/archives/unbelievable_wsj_calls_referring_urls_a_privacy_vi.php">under-informed news media</a> crying wolf to cash in on the zeitgeist. What are we doing to ensure that the voices of well-informed scholars and experts are not lost in the cacophony caused by the democratization of media? For example, how do we engage the public in civil discourse about issues like privacy, identity, and the changing face of media consumption before their attention becomes <a href="http://news.google.com/news/more?pz=1&amp;cf=all&amp;ncl=d0AdDqEmRQ0iZ9MT3YPfnw0HiAinM">over</a>-<a href="http://news.google.com/news/more?pz=1&amp;cf=all&amp;ncl=dUxe1Q9rvoFGcaMXxwUWhxQCCtfvM">saturated</a> by <a href="http://news.google.com/news/more?pz=1&amp;cf=all&amp;ncl=d3Ig2SnKGIFS4kMPXeadOtFdXk5vM">base sensationalism</a>?</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[North American Response to Ravenna]]></title>
+    <link href="http://englishm.github.com/blog/2009/11/05/north-american-response-to-ravenna/"/>
+    <updated>2009-11-05T00:00:00-05:00</updated>
+    <id>http://englishm.github.com/blog/2009/11/05/north-american-response-to-ravenna</id>
+    <content type="html"><![CDATA[<h1></h1>
+
+<p>The North American Orthodox-Catholic Theological Consultation met for its 77th session on October 22-24th. The meeting largely focused on forming a joint response to the 2007 “<a href="http://www.vatican.va/roman_curia/pontifical_councils/chrstuni/ch_orthodox_docs/rc_pc_chrstuni_doc_20071013_documento-ravenna_en.html" title="ECCLESIOLOGICAL AND CANONICAL CONSEQUENCES OF THE SACRAMENTAL NATURE OF THE CHURCH: ECCLESIAL COMMUNION, CONCILIARITY AND AUTHORITY">Ravenna Document</a>” published by the JICTD. Both the United States Conference of Catholic Bishops (USCCB) and the Standing Conference of the Canonical Orthodox Bishops of the Americas (SCOBA) recently issued press releases (<a href="http://www.usccb.org/comm/archives/2009/09-225.shtml" title="USCCB News Release">here</a> and <a href="http://www.scoba.us/articles/2759.html" title="SCOBA press release">here</a>), including the <a href="http://www.usccb.org/seia/RavennaResponse.pdf" title="A Common Response to the Joint International Commission for the Theological Dialogue Between the Roman Catholic Church and the Orthodox Church Regarding the Ravenna Document:  “Ecclesiological and Canonical Consequences of the Sacramental Nature of the Church: Ecclesial Communion, Conciliarity and Authority”">joint response</a>.</p>
+
+<p>The response repeatedly emphasizes that “[t]hroughout, the [Ravenna] document attempts to include the whole Church, not just the bishops within the exercise of conciliarity,” and prods that discussion of the “authority of the baptized to discuss the authority of bishops as exercised in councils” should not be passed over.</p>
+
+<p>It is also critical of the Ravenna document’s failure to clarify “the ecclesiological status of regional expressions of primacy and synodality” as related by analogy to the “order (taxis) which exists among the three persons of the Holy Trinity.” The joint response goes on to note that the only footnote of the Ravenna document is incomplete and seems to portray the ecclesiological self-understandings of both Churches as more exclusivist than they are in actuality.</p>
+
+<p>Overall, the response commends the JICTD’s continuing efforts and welcomes the publication of the Ravenna document despite the fact that “the text remains at the level of principle rather than practice.”</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[De unione ecclesiarum]]></title>
+    <link href="http://englishm.github.com/blog/2009/11/03/de-unione-ecclesiarum/"/>
+    <updated>2009-11-03T00:00:00-05:00</updated>
+    <id>http://englishm.github.com/blog/2009/11/03/de-unione-ecclesiarum</id>
+    <content type="html"><![CDATA[<h1></h1>
+
+<p>I am always delighted to discover intelligent and level-headed scholars publishing their thoughts online. The recent discovery of Peter Gilbert’s blog, <a href="http://bekkos.wordpress.com/">De unione ecclesiarum</a> is no exception.</p>
+
+<p>Peter is a Greek Orthodox scholar working on a translation of some of the treatises of <a href="http://en.wikipedia.org/wiki/Patriarch_John_XI_of_Constantinople">John Bekkos</a>. (Bekkos was Patriarch of Constantinople during the Union of Lyons.)</p>
+
+<p>An article by <a href="http://bekkos.wordpress.com/about/">Peter Gilbert</a> entitled “John Bekkos as a Reader of the Fathers” was recently published in <em>Communio</em> and is available for download  [<a href="http://www.communio-icr.com/articles/PDF/gilbert36-2.pdf">PDF</a>] on their <a href="http://www.communio-icr.com/">website</a>.</p>
+
+<p>The article offers a sympathetic reading of Bekkos including criticism of some Photian assumptions regarding the Trinity as assertions not following directly from the Cappadocian Fathers.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Incident at Primrose and West]]></title>
+    <link href="http://englishm.github.com/blog/2009/11/02/the-incident-at-primrose-and-west/"/>
+    <updated>2009-11-02T00:00:00-05:00</updated>
+    <id>http://englishm.github.com/blog/2009/11/02/the-incident-at-primrose-and-west</id>
+    <content type="html"><![CDATA[<h1></h1>
+
+<p>Local legend Chance Jones has a new album coming out this month on vinyl, CD, and as a digital download.  It’s worth your attention.</p>
+
+<p><img src="http://mikeenglish.net/blog/wp-content/uploads/2009/11/chancejonesposter-180x300.jpg" title="chancejonesposter" alt="chancejonesposter" /></p>
+
+<p>From <a href="http://www.revuewm.com/item/112-that-70s-show-joshua-burges-musical-mixology.html">Revue’s <strong>cover</strong>age</a>:</p>
+
+<blockquote><p>Primrose is both “the most accessible and the weirdest album I’ve put out,” says Jeff Vandenberg, owner of Grand Rapids, Mich.-based <a href="http://www.frictionrecords.net/">Friction Records</a>, which is releasing the album. “The recordings came out great and it reminds me of ‘60s and ‘70s rock, but in the best way. It’s got an old-school sound, but is still totally unique.”</p></blockquote>
+
+<p>If you love music, live in Grand Rapids, and you’ve never seen Chance Jones play, you really need to get out more.  Joshua Burge has tirelessly invested himself into rocker persona, Chance Jones, at every performance I’ve attended.  With “Chance’s” wildly theatrical mannerisms and  knack for melody, and the band’s tight backing, each show is thoroughly entertaining.  Why not come out to the <a href="http://www.facebook.com/event.php?eid=154023331456" title="Facebook event">album release</a> at the Intersection on the 27th and see for yourself?</p>
+
+<p>Still not convinced? Here’s a sample from the new album:</p>
+
+<p><a href="http://www.frictiongoods.com/mp3/chancejonescutewithaknife.mp3">Chance Jones – Cute with a Knife</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Google Wave &#8211; First impressions]]></title>
+    <link href="http://englishm.github.com/blog/2009/10/30/google-wave-first-impressions/"/>
+    <updated>2009-10-30T00:00:00-04:00</updated>
+    <id>http://englishm.github.com/blog/2009/10/30/google-wave-first-impressions</id>
+    <content type="html"><![CDATA[<h1></h1>
+
+<p>I’ve been playing with <a href="http://wave.google.com/help/wave/about.html">Google Wave</a> for about a week now, but I still haven’t figured out what to do with it.  Yes, it has a lot of very cool features, but the as the combination is so unlike existing communication technology, it’s very difficult to know just how to use it.  I doesn’t help that at this point there is virtually no integration with existing communication channels (e-mail, IM, twitter) making it so that you have to be <em>on</em> Google Wave to know if anything is happening on Google Wave.  Most of the friends I’ve invited so far seem to have given up on trying to force this new technology into their lives.  There’s probably some wisdom in that, but I’d like to see this catch on because I <em>do</em> think it has a lot to offer.</p>
+
+<p>Ann Michael has an post at <a href="http://scholarlykitchen.sspnet.org/2009/10/30/google-wave-when-more-is-too-much/">The Scholarly Kitchen</a> that outlines similar woes. From the post:</p>
+
+<blockquote><p>Google Wave is a cacophony of functionality that doesn’t even try to reveal its value or purpose to the user. You have to be determined to use Google Wave in order to make it work for you. Even then, since it’s a “preview,” the functions you try to use don’t always work. Being a new user you are left wondering if the function doesn’t work or if you’re just not doing it right.</p></blockquote>
+
+<p>My hope is that Google Wave will become much more useful and user-friendly as more extensions are developed and more invites filter out into the general public.  Once more people start to use it, it’s use(s) will become more defined.</p>
+
+<p>That said, I have a couple invites left.  I’d like to trade them for something interesting (handmade crafts, mix tapes, etc.). Comment if you’re into that idea.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Considering Primacy]]></title>
+    <link href="http://englishm.github.com/blog/2009/10/30/considering-primacy/"/>
+    <updated>2009-10-30T00:00:00-04:00</updated>
+    <id>http://englishm.github.com/blog/2009/10/30/considering-primacy</id>
+    <content type="html"><![CDATA[<h1></h1>
+
+<p>The Joint International Commission for the Theological Dialogue between the Roman Catholic Church and the Orthodox Church (what a mouthful!  ”JICTD” from now on) wrapped up its 11th plenary session in Cyprus last week.  On the agenda was a discussion of “The Role of the Bishop of Rome in the Communion of the Church in the First Millennium.”  Some Greek monastics, fearing that the meeting was an attempt to subjugate the Orthodox to the authority of Rome, organized protests and circulated misleading information about the nature of the event.</p>
+
+<p>According to Cardinal Walter Kasper, president of the Pontifical Council for Promoting Christian Unity, the commission is making “<a href="http://zenit.org/article-27378?l=english">Little steps forward in the right direction</a>.”  The JICTD worked on a draft document that will be finalized at  the next session in Vienna, Sept. 20-27, 2010.</p>
+
+<p>In the interim, I thought I might share some reflections on this, and other ecumenically-relevant topics from various sources.  Today, a selection from Olivier Clement’s <a href="http://books.google.com/books?id=iLz7otL3bnUC" title="Orig. Fr. title: &quot;Rome autrement&quot;"><em>You Are Peter</em></a>:</p>
+
+<blockquote><h2>A Creative Tension (Chapter 7)</h2>
+
+<p> From the fourth to the ninth centuries, pope and council never ceased to reinforce each other; like waves meeting and mingling, they clashed, yet, transcending the structures, they always ended by collaborating.  As Father Yves Congar points out in his introduction to Wilhelm de Vries’s book, <em>Orient et Occident</em>, the emperor had the authority to convoke a council.  He gave its decrees the force of law but, by and large, except in the period of iconoclasm, he did not claim to have the competence to determine doctrine, and the defeat of iconoclasm was the defeat of an attempt at caesaropapism.  The pope could hear an appeal, function as a court of annulment, but the canons protected the autonomy of local churches.  Councils, almost always with papal accord, clarified doctrine and established the foundations of Church discipline.  Nevertheless, as far as truth is concerned, it asserted itself of itself, transcending the contradictions of ecclesial procedures, imposing the confession of the apostolic faith, the faith of Peter.</p>
+
+<p>Widening the focus, one could say that the Church had several aerials for receiving what the Spirit had to say to her:</p>
+
+<p>– The Council as an expression of universal communion.</p>
+
+<p>– The pope as being charged with care for this communion and watching over the petrine and pauline correctness of the faith.</p>
+
+<p>– But also the <em>utilitas</em> of the people of God, its “sense of the Church,” which can express itself in times of major crisis through the witness, the martyrdom, of a lone prophet.  ”Anyone who is not with me is not with the truth,” exclaimed Maximus the Confessor when nearly everyone was content either to keep quiet or to compromise.  And Theodore the Studite, witness of orthodoxy during the second outbreak of iconoclasm and persecuted by the majority of bishops and the patriarch himself, affirmed most evangelically that “three believers who were united in the orthodox faith constitute the Church.”</p>
+
+<p>The East did not experience primacy in the form that it was to take in the West after the Gregorian reform and the Council of Trent.  It refused it in anticipation.  But at the time of the ecumenical councils it acknowledged a true Roman primacy and the petrine charism which that presupposes.  And this was by no means a simple “primacy of honor,” a <em>primus inter pares</em>, in the purely honorific sense of these expressions.</p>
+
+<p>What did it entail?  It is difficult to say exactly; any precise, juridical definition of the modern type seems out of keeping.  On either side theories were evolving which seemed in disaccord; in fact, ecclesial practice ended by transcending them.  The pope would write to the council with the intention of imposing an authoritative solution to some problem; his letter was received and listened to with the utmost respect, but <em>freely</em> and in the context of <em>free reflection</em>.  The faith of Peter, indeed, but could it be separated from the vicariate of Peter, if God wanted this latter and this charism that goes with it?  But did he want it?  The East, at the time of the ecumenical councils, said yes, but differently — differently, that is, from Catholic theologians who in modern times have hardened the texts of a Leo the Great, making them more authoritarian.  Certainly, that risk was there already; an evolution could be discerned.  Nevertheless Leo never ceased affirming that the purpose of Roman primacy was to serve ecclesial communion, <em>fidelium universitas</em>, itself founded upon the “unity of the catholic faith.”  Moreover, he says time and again that he cannot exercise his charism except in communion with his “brothers and co-bishops” whose rights he respects and safeguards.</p>
+
+<p>It is, in the end, an admirable complementarity, a providential collaboration between popes and councils.  The councils only achieved their full ecumenicity through the fruitful contribution of the Roman tomes, however freely debated and amended, through which both the West and the petrine charism expressed themselves.  If the councils had not been complemented in this way, the rule of faith by which we live could not have been worked out.  Without the popes, more distanced from the political center of the empire and hence more independent (in which particular they joined hands with the monks), the ultimate transcendence of the Church could not have been preserved.</p>
+
+<p>Each of the two structures, taken alone, can be seen to have failed.  Under Celestine the papacy vacillated, under Honorius and Vitalian it bent before the wind.  From the eighth century on, militarily abandoned by Byzantium, rescued from the Lombards by the Carolingians, it fell back on the West, hardening its pretensions to the point of creating another emperor.  In this, too, the tension inherent in the Byzantine “symphony” was replaced by logic of another kind: the absorption by the “spiritual” of the “temporal.”  Thus was the ground prepared for the schism between West and East.</p>
+
+<p>For its part, the council could not prevent the tearing asunder of the Church in the ancient Christian lands of Egypt and Syria in the fifth and sixth centuries.  Clearly the dogma of Chalcedon was an immense accomplishment; even today it is pushing back the horizons of Christian thought.  But how can one forget all those bishops in the Middle East who claimed that the new definition ran counter to Tradition?  Philoxenus of Mabbug, for example, who was no heedless theologian of little consequence, disputed the claim that the council had been “received” by the entire Church, a reception which alone, for him, would have obliged acceptance of its decisions.  Who was right, one might naïvely ask?  Choices are often influenced by geographical, social, cultural, even ethnic factors, but at this time in the East choices were also made according to conscience, as they would be in the West at the time of the pre-Reformation and Reformation, as Maximus the Confessor had made his at the decisive moment.  Conscience protects and justifies itself first through polemic.  Burrowing deeper over time, it seeks communion, so that it is today that Chalcedon (and Ephesus) can be universally received; it is today, too, that ways can be found of bridging the schism between Orthodox East and Catholic and Protestant West: not through compromise, but through a clearer discovery in the Holy Spirit of the original core of the message.</p>
+
+<p>These schisms aside, the true greatness of the period of the ecumenical councils is precisely that the power of decision reseted with no one: neither pope, nor council, nor emperor, nor public feeling.  All thought they had the final word, which meant that no one had it except, rightly, the Holy Spirit.</p>
+
+<p>This greatness was more lived out than conceptualized.  Roman primacy defined itself in terms of a legalistic logic where tensions were crushed out of existence by a forcible slotting together of structures: the faithful were locked into the power of the episcopate and the latter into the <em>plenitudo potestatis</em> of the pope, the prophet was subordinated to the priest, Paul to Peter, perhaps even the Holy Spirit to Christ, as would be achieved in the mediaeval <em>filioque</em> quibbles.  In the East, the persistence and recurrence of schism was ensured on the one hand, from without, by force of historical circumstance, i.e., the dominance of Islam; on the other, from within, by the mental petrifaction imposed by closed systems, which confer on details a quasi-magical value.</p>
+
+<p>It is our task today, going beyond the words — words which “stick out their tongues at each other,” as Antoine de Saint-Exupéry said in <em>Citadelle</em> — to reflect on the lived ecclesial experience of a period when, through compromise and miracles, tensions were resolved throughout the greater part of Christendom neither through forcible insertion, nor through violent schism, but after another fashion: and that was surely the free communion of personal consciences in the Holy Spirit.</p></blockquote>
+
+<p>[The English translation of this work, an Orthodox theologian&#8217;s response to John Paul II&#8217;s <em><a href="http://www.vatican.va/holy_father/john_paul_ii/encyclicals/documents/hf_jp-ii_enc_25051995_ut-unum-sint_en.html">Ut Unum Sint</a></em>, is published by New City Press.]</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Blogging]]></title>
+    <link href="http://englishm.github.com/blog/2009/10/28/blogging/"/>
+    <updated>2009-10-28T00:00:00-04:00</updated>
+    <id>http://englishm.github.com/blog/2009/10/28/blogging</id>
+    <content type="html"><![CDATA[<h1></h1>
+
+<p>I am considering using this blog for topics other than technology – namely theology and music.</p>
+
+<p>Should I create separate blogs? Separate categories?</p>
+
+<p>I’d like to keep writing, but my interests are rather diverse.<br/>
+Perhaps if I write consistently enough, a gestalt of the whole will emerge.</p>
+
+<p>Watch this space…</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Thinking About Hardware]]></title>
+    <link href="http://englishm.github.com/blog/2009/07/12/thinking-about-hardware/"/>
+    <updated>2009-07-12T00:00:00-04:00</updated>
+    <id>http://englishm.github.com/blog/2009/07/12/thinking-about-hardware</id>
+    <content type="html"><![CDATA[<h1></h1>
+
+<p>News of <a href="http://googleblog.blogspot.com/2009/07/introducing-google-chrome-os.html">Google’s plans for Chrome OS</a> have started me thinking about computer hardware – trying to decide what my next upgrade will be. While I can’t afford anything new in the immediate future (I’m a poor college student), I’m beginning to grow anxious about my aging PowerBook’s health.</p>
+
+<p>Besides my laptop’s impending and inevitable demise, my cell phone contract will be up soon, and I’m considering downgrading from my BlackBerry to a “dumb” phone when that happens. Rates for data are exorbitant when you consider the ubiquity of WiFi coverage these days.</p>
+
+<p>More and more, I find myself wondering if I might be in the market for a netbook. I ridiculed a friend of mine for months after she bought a tiny MSI Wind, but now that I’ve seen how convenient it is, I really think it might be just what I need: a lightweight computer that I can type on and carry almost everywhere.</p>
+
+<p>The thought of phasing out my laptop – my “real computer” – is frightening. However, I recall that I had similar fears about phasing out my desktop when that was my “real computer” and I bought this PowerBook to take to college. Netbooks are a whole different animal though, especially when you consider the growing demands of media.</p>
+
+<p>I’ll cut to the chase. One possibility for the future of my digital life is this: a dumb phone with unlimited text messaging, a netbook of some kind, and a <a href="http://en.wikipedia.org/wiki/Network-attached_storage">NAS</a>/Media server. It’s the last piece of the puzzle that’s leaving me… well, puzzling.</p>
+
+<p>I’d like to digitize my entire CD collection. I’d like to store the audio on a server in some lossless format (<a href="http://en.wikipedia.org/wiki/Free_Lossless_Audio_Codec">FLAC</a> perhaps) to save having to re-digitize from the physical media in the future when I might want better quality files (than if I had stored them all as MP3s). I’d like to keep my movies on there too, and my photos, and backup all of my documents (including a small but growing reference library of articles and research papers for school). I’d like it to hook up easily to a television or stereo (read: surround sound HDTV). Oh, and it’d be really nice if I could get at some of this stuff while I’m away from home too.</p>
+
+<p>Humoring my imagination (and helping me wrap my head around the costs of this next generation of computing hardware), can anyone recommend a good NAS/media server (and/or netbook)?</p>
+
+<p>Thanks!<br/>
+I’ll be looking for myself too, and I’ll post what I find in the comments <a href="http://mikeenglish.net/blog/2009/07/12/thinking-about-hardware/">here</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

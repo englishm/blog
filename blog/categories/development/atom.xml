@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Development | Mike English&#x27;s blog]]></title>
+  <link href="http://englishm.github.com/blog/blog/categories/development/atom.xml" rel="self"/>
+  <link href="http://englishm.github.com/blog/"/>
+  <updated>2013-02-15T09:57:31-05:00</updated>
+  <id>http://englishm.github.com/blog/</id>
+  <author>
+    <name><![CDATA[Mike English]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Blink]]></title>
+    <link href="http://englishm.github.com/blog/2011/08/16/arduino-blink/"/>
+    <updated>2011-08-16T00:00:00-04:00</updated>
+    <id>http://englishm.github.com/blog/2011/08/16/arduino-blink</id>
+    <content type="html"><![CDATA[<h1></h1>
+]]></content>
+  </entry>
+  
+</feed>
